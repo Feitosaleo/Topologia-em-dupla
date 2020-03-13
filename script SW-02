@@ -1,0 +1,23 @@
+enable
+configure terminal
+hostname SW-02
+username kit-kat privilege 15 secret 123
+ip-defalt getway 172.16.0.1
+enable secret leonardo*enable
+line console 0
+password leonardo*console 
+login
+exit
+ip domain-name 1rede.local
+crypto key generate rsa general-key modulus 1024
+line vty 0 15
+password leonardo*vty
+transport input ssh
+login
+exit
+service password-encryption
+interface vlan 1
+ip address 172.16.255.254 255.255.0.0
+no shutdown
+end 
+wr

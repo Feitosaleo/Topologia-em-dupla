@@ -1,0 +1,83 @@
+                                                                         CHECK LIST
+                                                            MONTAR UM SCRIPT COM TODAS AS CONFIGURAÇÕES
+                                                                         
+
+                                                                      1-ETAPA-PACKET TRACER
+
+
+1° PASSO- Configurar o Switch 1 colocando :
+
+-HOSTNAME
+-SENHA DA ENABLE
+-SENHA DA CONSOLE
+-DOMÍNIO
+-CHAVE SSH
+-SENHA DA VTY
+
+2° PASSO- Configurar o Switch 2 colocando :
+
+-HOSTNAME
+-SENHA DA ENABLE
+-SENHA DA CONSOLE
+-DOMÍNIO
+-CHAVE SSH
+-SENHA DA VTY
+
+3° PASSO Configurar o Router colocando :
+
+-HOSTNAME
+-SENHA DA ENABLE
+-SENHA DA CONSOLE
+-DOMÍNIO
+-CHAVE SSH
+-SENHA DA VTY
+
+ 
+                                                                         2-ETAPA- FISICAMENTE
+
+1° PASSO- Configurar fisicamente o Switch 1 colocando:
+
+-HOSTNAME
+-SENHA DA ENABLE
+-SENHA DA CONSOLE
+-DOMÍNIO
+-CHAVE SSH
+-SENHA DA VTY
+
+2° PASSO-  Configurar fisicamente o Switch 2 colocando:
+
+-HOSTNAME
+-SENHA DA ENABLE
+-SENHA DA CONSOLE
+-DOMÍNIO
+-CHAVE SSH
+-SENHA DA VTY
+
+3° PASSO-  Configurar fisicamente o Router colocando:
+
+-HOSTNAME
+-SENHA DA ENABLE
+-SENHA DA CONSOLE
+-DOMÍNIO
+-CHAVE SSH
+-SENHA DA VTY
+
+                                                    3° ETAPA- GITHUB
+
+
+-CRIAR UM RPOSITÓRIO PARA AS TOPOLOGIAS
+-CRIAR UM REPOSITÓRIO PARA O CHECK LIST
+-CRIAR UM REPOSITÓRIO PARA OS SCRIPTS
+-NOMEAR TODOS ELES 
+-SUBIR NO GITHUB
+
+                                                   
+
+
+
+
+
+
+
+
+
